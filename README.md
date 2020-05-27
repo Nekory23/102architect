@@ -24,7 +24,7 @@ See the subject for further details !
 
 1st semester Maths unit
 
-Grade : B
+Grade : B | Mark : 14
 
 Score : 87%
   - Rigor : 100% --- 22/22
