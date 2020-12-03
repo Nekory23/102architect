@@ -1,6 +1,5 @@
 # 102architect
-
-{EPITECH} | First year | Math project 
+# {EPITECH} | First year | Math project 
 
 You are working on a homeplanning software for an architecture firm.
 The goal is to simplify the process of drawing the plan, and to integrate various features such as scale management, 
@@ -22,14 +21,16 @@ See the subject for further details !
 
 ========================
 
-1st semester Maths unit
+## 1st semester Maths unit
 
 Grade : B | Mark : 14
-
-Score : 87%
-  - Rigor : 100% --- 22/22
-  - Transformation matrices : 100% --- 12/12
-  - Matrix product : 100% --- 6/6
-  - Complex transformations : 0% --- 0/6
+  
+| Category                | Percentage | Tests | Crash ? |
+|-------------------------|------------|-------|---------|
+| Rigor                   | 100%       | 22/22 | x       |
+| Transformation matrices | 100%       | 12/12 | x       |
+| Matrix product          | 100%       | 6/6   | x       |
+| Complex transformation  | 0%         | 0/6   | x       |
+| **End scores**          | **87%**    |**40/46**| **No**      |
 
 Beware of -42 Epitech Students !!!
